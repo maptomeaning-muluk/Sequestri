@@ -1,0 +1,7 @@
+{
+  "name": "Eco Gram",
+  "description": "A digital revolution enabling farmers to earn carbon credits through Renewable Energy, Agroforestry, Biogas, and Organic Farming, powered by GIS and Remote Sensing MRV technology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
